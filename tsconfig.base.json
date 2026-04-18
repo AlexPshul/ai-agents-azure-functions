@@ -6,6 +6,8 @@
     "moduleResolution": "nodenext",
     "resolvePackageJsonExports": true,
     "resolvePackageJsonImports": true,
-    "target": "esnext"
+    "target": "esnext",
+    "resolveJsonModule": true,
+    "skipLibCheck": true
   }
 }
