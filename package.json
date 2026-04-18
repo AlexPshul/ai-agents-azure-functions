@@ -1,0 +1,17 @@
+{
+  "name": "ai-agents-azure-functions",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "@nxazure/func": "^2.0.2",
+    "@types/node": "^18.19.130",
+    "azure-functions-core-tools": "^4.x",
+    "nx": "22.6.5",
+    "rimraf": "^5.0.0",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@azure/functions": "^4.12.0"
+  }
+}

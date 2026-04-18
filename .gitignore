@@ -1,0 +1,8 @@
+node_modules
+__azurite*
+__blobstorage__
+__queuestorage__
+AzuriteConfig
+.nx
+dist
+.tmp-*

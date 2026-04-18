@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "rootDir": ".",
+    "module": "nodenext",
+    "moduleDetection": "force",
+    "moduleResolution": "nodenext",
+    "resolvePackageJsonExports": true,
+    "resolvePackageJsonImports": true,
+    "target": "esnext"
+  }
+}
