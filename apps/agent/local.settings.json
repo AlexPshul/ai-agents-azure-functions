@@ -4,6 +4,7 @@
     "FUNCTIONS_WORKER_RUNTIME": "node",
     "AzureWebJobsStorage": "UseDevelopmentStorage=true",
     "FOUNDRY_MODEL_URL": "",
-    "FOUNDRY_API_KEY": ""
+    "FOUNDRY_API_KEY": "",
+    "NOTES_MCP_URL": "http://localhost:7071/runtime/webhooks/mcp"
   }
 }

@@ -30,7 +30,7 @@ app.get('talk', {
       mcpServers: {
         notes: {
           type: 'http',
-          url: 'http://localhost:7071/runtime/webhooks/mcp',
+          url: process.env.NOTES_MCP_URL || '',
           tools: ['*'],
         },
       },
